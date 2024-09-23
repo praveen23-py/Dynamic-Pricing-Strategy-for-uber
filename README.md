@@ -23,10 +23,9 @@ Time of booking (peak hours, off-peak hours)
 Demand and Supply: A clear relationship between demand (riders) and supply (drivers) was identified, which significantly affects optimal fare pricing.
 Customer Loyalty: Frequent customers may receive adjusted fares as a reward for their loyalty, encouraging continued use of Uber's services.
 Peak Times: Pricing increases during peak hours when demand outstrips supply, ensuring availability for those who need it most.
-## 
-Technology Stack
-Python: For data manipulation and model building.
-Pandas & NumPy: For handling and analyzing large datasets.
-Seaborn & Matplotlib: For visualizing data patterns and trends.
-Machine Learning: For building and evaluating the predictive pricing model.
-Jupyter Notebook: To create and document the entire analysis workflow.
+## Technology Stack
+* Python: For data manipulation and model building.
+* Pandas & NumPy: For handling and analyzing large datasets.
+* Seaborn & Matplotlib: For visualizing data patterns and trends.
+* Machine Learning: For building and evaluating the predictive pricing model.
+* Jupyter Notebook: To create and document the entire analysis workflow.
